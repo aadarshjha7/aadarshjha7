@@ -1,6 +1,5 @@
 -👋 ## नमस्ते (Namaste) I am Aadarsh Jha
 - 👀 I’m interested in Data Science
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... 
 <a href="https://www.instagram.com/_aadarsh17/">
   <img align="left" alt="Aadarsh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
