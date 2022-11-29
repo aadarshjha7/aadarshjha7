@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... 
-- <a href="https://www.instagram.com/_aadarsh17/">
+- 
+<a href="https://www.instagram.com/_aadarsh17/">
   <img align="left" alt="Aadarsh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
