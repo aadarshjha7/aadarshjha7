@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aadarshjha7
+<h2 align="center">👋 Hello! I'm Aadarsh.</h2>
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on 
