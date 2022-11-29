@@ -1,4 +1,4 @@
--👋 Hello! I'm Aadarsh.
+-👋 ## नमस्ते (Namaste) I am Aadarsh Jha
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on 
