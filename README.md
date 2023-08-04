@@ -1,5 +1,5 @@
 -👋 ## नमस्ते (Namaste) I am Aadarsh Jha
-- 👀 I’m interested in Data
+- 👀 I’m interested in Data Science/Engineering/Analysis
 
 <!---
 aadarshjha7/aadarshjha7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
